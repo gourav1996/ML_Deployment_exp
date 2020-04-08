@@ -1,5 +1,5 @@
 # ML_Deployment_exp
-# Run the server code and request.py to check the sentiment 
+* Run the server code and request.py to check the sentiment 
 * or save the inputdata in a .json file like:
 {
     "x": ["I hate some movies"]
